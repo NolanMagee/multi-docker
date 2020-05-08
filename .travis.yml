@@ -20,3 +20,4 @@ after_success:
   - docker push nolanmagee/multi-nginx
   - docker push nolanmagee/multi-server
   - docker push nolanmagee/multi-worker
+  - docker push nolanmagee/multi-client
